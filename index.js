@@ -24,7 +24,7 @@ const customStatus = new CustomStatus(client, {
  */
 const rich = new RichPresence(client)
   .setApplicationId(config.application_id)
-  .setType(config.type || 0) // 0 = Playing, 2 = Listening, 3 = Watching
+  .setType(config.type || 0) // 0 = Playing, 1 = Streaming, 2 = Listening, 3 = Watching
   .setName(config.name || "My Cool Presence")
   .setDetails(config.details || "No details set")
   .setState(config.state || "Available")

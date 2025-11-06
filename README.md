@@ -1,8 +1,8 @@
 # Discord 24/7 Rich Presence
 
-> Keep your Discord account **online 24/7** with custom **Rich Presence**!. Show games, music, or any activity—even when you're AFK. Lightweight and simple to use!
+[![Preview](./assets/1688311925824.webp)](https://www.youtube.com/watch?v=I2pK5s4EIsw)
 
-![Preview](./assets/1688311925824.webp)
+> Keep your Discord account **online 24/7** with custom **Rich Presence**!. Show games, music, streaming or any custom activity—even when you're AFK. Lightweight and simple to use!
 
 ---
 
@@ -33,7 +33,7 @@ npm install
 
 3. **Edit your config**
 
-- Open `.env` and set your account token.
+- Open `.env.example` and replace with `.env` also set your account token.
 
 ```env
 TOKEN=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -45,41 +45,6 @@ TOKEN=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ```bash
 npm run start
-```
-
----
-
-## 🔧 Example `config.yml`
-
-```yml
-application_id: "1311204057490259979"
-
-# Activity type: 0 = Playing, 2 = Listening, 3 = Watching
-type: 3
-
-name: "Github"
-details: "Watching Github"
-state: "Star Repo"
-
-# Images
-largeImageKey: "1377844502521446490"
-largeImageText: "Watching Github"
-smallImageKey: "1377845999464087653"
-smallImageText: "Star Repo"
-
-# URL (optional, works only with certain types)
-url: "https://www.example.com/"
-
-# Buttons (optional)
-buttons:
-  - name: "Visit Website"
-    url: "https://www.example.com"
-  - name: "GitHub Repo"
-    url: "https://github.com/"
-
-# Custom status
-custom_status: "Watching you"
-custom_emoji: "🔥"
 ```
 
 ---
