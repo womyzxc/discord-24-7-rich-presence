@@ -21,9 +21,9 @@ url: "https://www.youtube.com/@womyxyz"
 # Activity Buttons (optional)
 buttons:
   - name: "JOIN"
-    url: "discord.gg/revgng"
+    url: "https://discord.gg/revgng"
   - name: "CLICK"
-    url: "revshit.xyz"
+    url: "https://revshit.xyz/"
 
 # Activity Custom status
 custom_status: "Watching Antirevshit"
