@@ -11,9 +11,9 @@ state: "Peace Over War"
 
 # Activity Images
 largeImageKey: "ec29831e9c6d01d3afc4aa2507111775"
-largeImageText: "na"
+largeImageText: "nabi"
 smallImageKey: "revgn_resized_512"
-smallImageText: "bi"
+smallImageText: "nabi"
 
 # Activity URL (optional, works only with certain types)
 url: "https://www.youtube.com/@womyxyz"
@@ -21,9 +21,9 @@ url: "https://www.youtube.com/@womyxyz"
 # Activity Buttons (optional)
 buttons:
   - name: "JOIN"
-    url: "https://discord.gg/revgng"
+    url: "discord.gg/revgng"
   - name: "CLICK"
-    url: "https://revshit.xyz/"
+    url: "revshit.xyz"
 
 # Activity Custom status
 custom_status: "Watching Antirevshit"
