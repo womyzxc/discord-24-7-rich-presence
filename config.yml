@@ -26,5 +26,5 @@ buttons:
     url: "https://antirevshit.world/"
 
 # Activity Custom status
-custom_status: "Watching Antirevshit"
-custom_emoji: "🔥"
+custom_status: "./hackers.sh"
+custom_emoji: ""
