@@ -2,10 +2,10 @@
 application_id: "1445996188129034269"
 
 # Activity type: 0 = Playing, 1 = Streaming, 2 = Listening, 3 = Watching
-type: 3
+type: 1
 
 # Activity Details
-name: "NABI"
+name: "4REV"
 details: "ANTIREVSHIT"
 state: "Peace Over War"
 
@@ -21,10 +21,10 @@ url: "https://www.youtube.com/@womyxyz"
 # Activity Buttons (optional)
 buttons:
   - name: "JOIN"
-    url: "https://discord.gg/revgng"
+    url: "https://discord.gg/4rev"
   - name: "CLICK"
-    url: "https://revshit.xyz/"
+    url: "https://antirevshit.world/"
 
 # Activity Custom status
-custom_status: "Watching Antirevshit"
+custom_status: "Streaming Antirevshit"
 custom_emoji: "🔥"
