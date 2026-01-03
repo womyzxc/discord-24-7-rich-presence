@@ -10,10 +10,10 @@ details: "ANTIREVSHIT"
 state: "Peace Over War"
 
 # Activity Images
-largeImageKey: "81b6caa33a40f38fa823041dfabbe6f0"
-largeImageText: "nabi"
-smallImageKey: "8844e503932c8890ead1adb98e131c2e"
-smallImageText: "nabi"
+discordPresence.largeImageKey: "81b6caa33a40f38fa823041dfabbe6f0"
+discordPresence.largeImageText: "nabi"
+discordPresence.smallImageKey: "8844e503932c8890ead1adb98e131c2e"
+discordPresence.smallImageText: "nabi"
 
 # Activity URL (optional, works only with certain types)
 url: "https://www.youtube.com/@womyxyz"
