@@ -2,7 +2,7 @@
 application_id: "1445996188129034269"
 
 # Activity type: 0 = Playing, 1 = Streaming, 2 = Listening, 3 = Watching
-type: 1
+type: 3
 
 # Activity Details
 name: "4REV"
