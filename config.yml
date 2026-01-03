@@ -5,9 +5,9 @@ application_id: "1445996188129034269"
 type: 3
 
 # Activity Details
-name: "4REV"
-details: "ANTIREVSHIT"
-state: "Peace Over War"
+discordPresence.name: "4REV"
+discordPresence.details: "ANTIREVSHIT"
+discordPresence.state: "Peace Over War"
 
 # Activity Images
 discordPresence.largeImageKey: "81b6caa33a40f38fa823041dfabbe6f0"
